@@ -3,4 +3,4 @@
 - index_03.html - naive postprocessing
 - index_04.html - smarter postprocessing
 - index_05.html - WebGL postprocessing
-- index.html - bg music
+- index_06.html - bg music
