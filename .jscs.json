@@ -1,0 +1,15 @@
+{
+    "esnext": true,
+    "preset": "yandex",
+    "disallowMultipleVarDecl": null,
+    "requireSpaceAfterLineComment": null,
+    "requireSpaceBeforeBlockStatements": 1,
+    "excludeFiles": [
+        "node_modules/**",
+        "server/i18n/keysets/**",
+        ".git/**",
+        ".bem/**",
+        "*.bemjson.js",
+        "*.bemdecl.js"
+    ]
+}

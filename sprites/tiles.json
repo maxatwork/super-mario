@@ -1,0 +1,138 @@
+{"frames": {
+
+"bush1":
+{
+	"frame": {"x":0,"y":32,"w":80,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":32},
+	"sourceSize": {"w":80,"h":32},
+	"pivot": {"x":0,"y":0}
+},
+"bush2":
+{
+	"frame": {"x":80,"y":32,"w":112,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":32},
+	"sourceSize": {"w":112,"h":32},
+	"pivot": {"x":0,"y":0}
+},
+"bush3":
+{
+	"frame": {"x":80,"y":64,"w":144,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":32},
+	"sourceSize": {"w":144,"h":32},
+	"pivot": {"x":0,"y":0}
+},
+"cloud1":
+{
+	"frame": {"x":0,"y":64,"w":80,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":48},
+	"sourceSize": {"w":80,"h":48},
+	"pivot": {"x":0,"y":0}
+},
+"cloud2":
+{
+	"frame": {"x":0,"y":112,"w":112,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":48},
+	"sourceSize": {"w":112,"h":48},
+	"pivot": {"x":0,"y":0}
+},
+"cloud3":
+{
+	"frame": {"x":0,"y":176,"w":144,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":48},
+	"sourceSize": {"w":144,"h":48},
+	"pivot": {"x":0,"y":0}
+},
+"floor":
+{
+	"frame": {"x":32,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0}
+},
+"hill_big":
+{
+	"frame": {"x":0,"y":224,"w":160,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":96},
+	"sourceSize": {"w":160,"h":96},
+	"pivot": {"x":0,"y":0}
+},
+"hill_small":
+{
+	"frame": {"x":112,"y":112,"w":96,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":64},
+	"sourceSize": {"w":96,"h":64},
+	"pivot": {"x":0,"y":0}
+},
+"platform_brick":
+{
+	"frame": {"x":0,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0}
+},
+"platform_cube":
+{
+	"frame": {"x":64,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0}
+},
+"sign_0":
+{
+	"frame": {"x":160,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0}
+},
+"sign_1":
+{
+	"frame": {"x":96,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0}
+},
+"sign_2":
+{
+	"frame": {"x":128,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0,"y":0}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mario-tiles.png",
+	"format": "RGBA8888",
+	"size": {"w":224,"h":320},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e88316324a39f3de0fe520373dc34e57:9bcbd0bb5356c3de4c9fd9c787760ec3:953456d6adb9650e7ea1d77b68b2cb8e$"
+}
+}

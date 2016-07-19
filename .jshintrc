@@ -1,0 +1,35 @@
+{
+  "es3": false,
+  "esnext": true,
+  "expr": true,
+  "jquery": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "funcscope": true,
+  "globalstrict": true,
+  "immed": true,
+  "indent": 4,
+  "latedef": "nofunc",
+  "laxbreak": true,
+  "newcap": true,
+  "noarg": true,
+  "noempty": true,
+  "nonew": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "trailing": true,
+  "-W058": false,
+
+  "node": true,
+  "globals": {
+    "Promise": true,
+    "describe": false,
+    "it": false,
+    "before": false,
+    "beforeEach": false,
+    "after": false,
+    "afterEach": false
+  }
+}

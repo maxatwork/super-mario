@@ -1,0 +1,6 @@
+**/node_modules/**
+server/i18n/keysets/**
+.git
+*.bemjson.js
+*.priv.js
+*.bemdecl.js
